@@ -7,6 +7,8 @@
 > 💻 I’m currently exploring **Machine Learning and Data Structures and Algorithms (DSA)**  
 > 📫 How to reach me: [samikshabansal2005@gmail.com](mailto:samikshabansal2005@gmail.com)
 
+
+
 ### **Languages and Tools:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -45,23 +47,41 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
 </div>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 20px;">
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
- <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiksha-bansal1&show_icons=true&theme=dark&locale=en&layout=compact" alt="samiksha-bansal1" style="height: 200px; width: 340px; margin-right: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=samiksha-bansal1&show_icons=true&theme=github_dark&locale=en" alt="samiksha-bansal1" style="height: 200px; width: 450px;  margin-right: 20px;" />
+  <!-- Top Languages & GitHub Stats -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiksha-bansal1&show_icons=true&theme=dark&locale=en&layout=compact" 
+         alt="Top Languages" 
+         style="height: 200px; width: 340px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=samiksha-bansal1&show_icons=true&theme=github_dark&locale=en" 
+         alt="GitHub Stats" 
+         style="height: 200px; width: 450px;" />
+  </div>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha-bansal1&theme=dark" 
+       alt="GitHub Streak" 
+       style="max-width: 95%; height: auto;" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samiksha-bansal1&theme=github&bg_color=000000&color=00BFFF&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF&hide_border=true" 
+       alt="GitHub Activity Graph" 
+       style="width: 90%; max-width: 900px; height: 300px;" />
+
 </div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiksha-bansal1&theme=dark" alt="samiksha-bansal1" />
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=samiksha-bansal1&theme=github&bg_color=000000&color=00BFFF&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF&hide_border=true" alt="GitHub Activity Graph" style="width: 80%; height: 300px;" />
-</div>
+
 
 ### **Let's Connect!**
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/samiksha-bansal/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/samiksha__bansal/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://www.kaggle.com/samikshabansal" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:samikshabansal2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/samiksha-bansal1" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
